@@ -11,6 +11,9 @@ Ter nodejs e yarn instalados
 
 Após a instalação dos dois pré-requisitos, abra um terminal na pasta raiz deste projeto e execute o comando "yarn" para instalação dos pacotes necessários para execução.
 
+# Relatório
+![Relatório](https://github.com/gabrielduumont/netcheck/blob/main/screenshot.png)
+
 # Para rodar a aplicação
 
 Você pode rodar manualmente de 3 formas:
