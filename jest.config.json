@@ -1,0 +1,20 @@
+{
+  "preset": "ts-jest",
+  "testEnvironment": "node",
+  "moduleNameMapper": {
+    "@app/(.*)": "<rootDir>/src/$1"
+  },
+  "collectCoverageFrom": [
+    "**/*.{ts,tsx}",
+    "!**/src/database/**",
+    "!**/src/utils/constants.ts",
+    "!**/src/utils/googleAnalytics.ts",
+    "!**/src/server/index.ts",
+    "!**/src/server/gaDataFetcher.ts",
+    "!**/node_modules/**",
+    "!**/dist/**",
+    "!**/coverage/**",
+    "!**/.vscode/**",
+    "!**/.github/**"
+  ]
+}

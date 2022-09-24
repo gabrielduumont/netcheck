@@ -1,0 +1,4 @@
+datetimeExecuted, downloadBps, downloadKbps, downloadMbps, uploadBps, uploadKbps, uploadMbps, pingInputHost, pingTime, pingMin, pingMax, pingAvg, pingPacketLoss, elapsedTimeForTest
+2022-09-18T03:45:52.354Z, 9456264.78 bps, 9456.26 kbps, 9.46 mbps, 347826086.96 bps, 347826.09 kbps, 347.83 mbps, ping host: google.com.br, 22 ms latency, 22.00 ms Min, 22.00 ms Max, 22.00 ms Avg, 0.00% PacketLoss, 1.67 s
+2022-09-18T03:50:39.146Z, 9433962.26 bps, 9433.96 kbps, 9.43 mbps, 231884057.97 bps, 231884.06 kbps, 231.88 mbps, ping host: google.com.br, 37 ms latency, 37.00 ms Min, 37.00 ms Max, 37.00 ms Avg, 0.00% PacketLoss, 1.84 s
+2022-09-18T03:51:43.565Z, 9546539.38 bps, 9546.54 kbps, 9.55 mbps, 340425531.91 bps, 340425.53 kbps, 340.43 mbps, ping host: google.com.br, 35 ms latency, 35.00 ms Min, 35.00 ms Max, 35.00 ms Avg, 0.00% PacketLoss, 1.92 s
